@@ -1,0 +1,12 @@
+Inicio,Monday,2020/6/1,6:19:55,nodata
+Status,Monday,2020/6/1,6:19:55,200
+Inicio,Monday,2020/6/1,6:21:2,nodata
+Status,Monday,2020/6/1,6:21:2,200
+Inicio,Monday,2020/6/1,6:22:56,nodata
+Status,Monday,2020/6/1,6:22:56,200
+Inicio,Monday,2020/6/1,6:24:33,nodata
+Status,Monday,2020/6/1,6:24:33,200
+Inicio,Monday,2020/6/1,6:26:42,nodata
+Status,Monday,2020/6/1,6:26:42,200
+Inicio,Monday,2020/6/1,6:30:5,nodata
+Status,Monday,2020/6/1,6:30:5,200
